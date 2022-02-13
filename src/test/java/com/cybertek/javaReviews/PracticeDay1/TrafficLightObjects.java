@@ -1,4 +1,4 @@
-package com.cybertek.javareviews.PracticeDay1;
+package com.cybertek.javaReviews.PracticeDay1;
 
 public class TrafficLightObjects {
 

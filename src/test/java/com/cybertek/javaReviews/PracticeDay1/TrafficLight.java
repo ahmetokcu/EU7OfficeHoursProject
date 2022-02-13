@@ -1,6 +1,4 @@
-package com.cybertek.javareviews.PracticeDay1;
-
-import com.cybertek.javareviews.PracticeDay1.Light;
+package com.cybertek.javaReviews.PracticeDay1;
 
 public class TrafficLight extends Light { // my blueprint for all traffic lights
     // We are applying encapsulation: we have private field and Getter/Setter methods
